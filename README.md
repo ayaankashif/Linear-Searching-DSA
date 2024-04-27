@@ -1,1 +1,2 @@
-# Linear-Searching-DSA
+# Semester 3 
+Linear-Searching-DSA
